@@ -1,0 +1,10 @@
+C:\Users\Pablo\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.deps.json
+C:\Users\Pablo\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.json
+C:\Users\Pablo\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\Pablo\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.dll
+C:\Users\Pablo\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.pdb
+C:\Users\Pablo\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.fsprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfo.fs
+C:\Users\Pablo\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.dll
+C:\Users\Pablo\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.pdb
